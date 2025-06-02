@@ -1,4 +1,4 @@
-package com.edoralsilva.caretracker.usuario.model;
+package com.edoralsilva.caretracker.user.model;
 
 /**
  *
